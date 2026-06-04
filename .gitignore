@@ -39,3 +39,4 @@ outputs/
 
 # Large/local datasets
 data/
+brain_tumor_mri_dataset/
